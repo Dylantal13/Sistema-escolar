@@ -1,0 +1,26 @@
+body{
+background-color: black;
+}
+
+
+h1{
+color: #0099CC ;
+font-size:65px;
+font-family: 'impact';
+font-weight: 100;
+text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+h2{
+color: #A569BD;
+font-size:50px;
+font-family: 'impact';
+font-weight: 100;
+text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}
+p{
+font-family: 'Franklin Gothic Heavy';
+color: white;
+font-size:35px;
+font-weight: 600;
+text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+}

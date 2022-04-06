@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>AboutUs</title>
+<link rel="stylesheet" href="aboutus.css"> 
+</head>
+<body>
+<center>
+<br>
+<br>
+<br>
+<h1> SOBRE NOSOTROS</h1>
+<h2>CONTACTANOS</h2>
+<p>E-MAIL: RickyFort@gmail.com<br>
+Número de telefono: 2213528275<br>
+Instagram: Nico Del Caño<br>
+Twitter: Javier Milei<br>
+</p>
+</center>
+</body>
+</html>
